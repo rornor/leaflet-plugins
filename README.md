@@ -28,7 +28,7 @@ digraph G {
 		fontname="Helvetica",
 		fontsize=7.0,
 		head_lp="433.92,120.62",
-		headlabel="+pageviews *",
+		headlabel="+pageviews*",
 		pos="e,458.92,116.62 458.68,201.87 457.58,179.25 457.5,150.26 458.43,126.68",
 		];
 	Movie	 [fontname="Helvetica",
@@ -80,5 +80,4 @@ digraph G {
 		headlabel="+wikipedia_article 0..1",
 		pos="e,464.54,278.25 464.54,313.97 464.54,305.49 464.54,296.8 464.54,288.5",
 		];
-}
-)
+})
